@@ -7,15 +7,11 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//Sumit this sidedsdsdsdsds
+		//sasadsaasdsadsa
 		System.out.println("Hello world Release branch");
 		//Added one more comment
 
 	}
 
-	
-	private void func() {
-		// TODO Auto-generated method stub
-
-	}
 }
