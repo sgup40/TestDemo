@@ -2,11 +2,12 @@ package com.helloworld;
 
 public class TestExample {
 
-//devlop branch  add ddddd branch
-//KKKSSSS
+//test1
+
+
 	
-  private void developmethod() {
-   System.out.println("hi");
-   System.out.println("test1");
-}
+	public static void main(String[] args) {
+		System.out.println("hi");
+	}
+
 }
