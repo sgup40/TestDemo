@@ -16,6 +16,8 @@ public class Test {
 	
 	private void func() {
 		// TODO Auto-generated method stub
+		
+		//test
 
 	}
 }
