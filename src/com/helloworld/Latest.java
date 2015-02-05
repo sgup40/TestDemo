@@ -1,9 +1,3 @@
 package com.helloworld;
 
-public class Latest {
-//devlop
-//Sumit	
-//piyush	
-//run	
-	
-}
+public class Latest {}
