@@ -16,5 +16,9 @@ public class Test {
 		//test1
 
 	}
+	
+	public void testname() throws Exception {
+		System.out.println("Test Completed");
+	}
 
 }
